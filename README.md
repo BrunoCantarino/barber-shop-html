@@ -1,4 +1,5 @@
 Valhalla Barbers ⚔️
+
   Landing page desenvolvida para uma barbearia fictícia com temática viking, focada em visual forte, moderno e direto ao ponto. 
   O projeto foi criado com o objetivo de praticar HTML e CSS puro, trabalhando layout, animações, grid, responsividade e organização de código, tudo sem frameworks ou JavaScript.
 

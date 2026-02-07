@@ -32,12 +32,18 @@ Deploy 🚀
   https://barbershopvalhalla.netlify.app/
 
 Estrutura do projeto 📂
+
   barber-shop-html/
   ├── assets/
+  
   │ ├── css/
+  
   │ └── images/
+  
   ├── index.html
+  
   └── README.md
+  
 
 Objetivo 🎯
   Este projeto faz parte do meu processo de aprendizado em desenvolvimento front-end, focando em:

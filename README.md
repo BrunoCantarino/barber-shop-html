@@ -34,6 +34,7 @@ Deploy 🚀
 Estrutura do projeto 📂
 
   barber-shop-html/
+  
   ├── assets/
   
   │ ├── css/

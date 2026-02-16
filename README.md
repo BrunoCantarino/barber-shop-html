@@ -46,9 +46,9 @@ Responsividade 📱
 
 Deploy 🚀
 
-  O projeto está publicado no Netlify:
+  O projeto está publicado no Vercel:
   
-  https://barbershopvalhalla.netlify.app/
+  https://valhallabarbershop.vercel.app/#
 
 Estrutura do projeto 📂
 
